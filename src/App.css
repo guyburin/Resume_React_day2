@@ -31,3 +31,8 @@
     transform: rotate(360deg);
   }
 }
+
+.circle{
+  border-radius: 50%;
+  filter: alpha(opacity=70);
+}
